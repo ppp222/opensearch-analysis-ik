@@ -12,7 +12,7 @@
     <inceptionYear>2011</inceptionYear>
 
     <properties>
-        <opensearch.version>2.4.0</opensearch.version>
+        <opensearch.version>2.4.1</opensearch.version>
         <maven.compiler.target>11</maven.compiler.target>
         <opensearch.assembly.descriptor>${project.basedir}/src/main/assemblies/plugin.xml</opensearch.assembly.descriptor>
         <opensearch.plugin.name>analysis-ik</opensearch.plugin.name>
